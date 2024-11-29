@@ -7,7 +7,7 @@ title: Lev Poliakov's CV
 Senior C++ Software Engineer
 
 <div id="webaddress">
-<a href="mailto:progsag@gmail.com">progsag@gmail.com</a> | <a href="https://github.com/sungrow">GitHub</a> | <a href="http://www.progsag.com">www.progsag.com</a>
+<a href="mailto:progsag@gmail.com">progsag@gmail.com</a> | <a href="https://github.com/sungrow">GitHub</a> | <a href="http://www.progsag.com">www.progsag.com</a> | <a href="tel:+441158880284">Phone</a> | <a href="https://linkedin.com/in/sungrow">LinkedIn</a>
 </div>
 
 ## Currently
@@ -28,9 +28,9 @@ C++ development, low-latency programming, advanced graphics rendering, multithre
 
 ## Professional Summary
 
-Highly skilled Senior C++ Software Engineer with over 5 years of experience in developing and optimizing high-performance, real-time systems and applications. I excel in tasks with clear objectives and deadlines, especially those requiring in-depth research. My commitment to excellence spans from developing scalable software architectures to optimizing low-level code, enabling me to deliver high-quality results consistently.
+Highly skilled Senior C++ Software Engineer with over 5 years of experience in developing and optimizing high-performance, real-time systems and applications. I excel in tasks with clear objectives and deadlines, especially those requiring in-depth research. My pursue of excellence spans from developing scalable software architectures to optimizing low-level code, enabling me to deliver high-quality results consistently.
 
-With expertise in low-latency programming, advanced graphics rendering, and multithreaded optimization, I have a proven track record of delivering significant performance enhancements—including up to 10x speed improvements and reducing CPU load by 30%. I possess a deep understanding of software architecture and a passion for pushing technological boundaries.
+With expertise in low-latency programming, advanced graphics rendering, and multithreaded optimization, I have a proven track record of delivering significant performance enhancements—including up to 10x speed improvements by leveraging performance optimizations on both CPU and GPU. I possess a deep understanding of software architecture and a passion for pushing technological boundaries.
 
 Results-oriented and an excellent executor, I achieve goals effectively in both standard and flexible conditions. Capable of taking responsibility and making independent decisions within the framework of clearly defined tasks.
 
